@@ -1,9 +1,10 @@
 import { Outlet } from 'react-router-dom';
+import SearchHeader from './components/SearchHeader';
 
 function App() {
   return (
     <div>
-      헤더
+      <SearchHeader />
       <Outlet />
     </div>
   );
