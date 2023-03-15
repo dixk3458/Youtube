@@ -1,0 +1,969 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "fXhQgAh0LL9tBrmYMPkhkIxZ8xs",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qGUT-t_OPC3l2MDMlp8dc74g6tw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i9Eiij6Wb94"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-22T13:06:35Z",
+        "channelId": "UCqwUnggBBct-AY2lAdI88jQ",
+        "title": "BABYMONSTER - Introducing CHIQUITA",
+        "description": "#BABYMONSTER #베이비몬스터 #CHIQUITA #치키타 #YG_NEW_GROUP #YG\n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@officialBABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i9Eiij6Wb94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i9Eiij6Wb94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i9Eiij6Wb94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i9Eiij6Wb94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i9Eiij6Wb94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BABYMONSTER",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-22T13:06:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cHL4-yzGymRsl5ADamnUuqrz7Is",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Hr3p1BHC_E"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T08:26:22Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Hard to Love’ (Official Audio)",
+        "description": "BLACKPINK - ‘Hard to Love’\n\nAin’t no magic tool to fix it\nYou should keep your distance\nI’m only telling you because I care\n\n‘Cause I’m hard to love\nFind it hard to trust\nWhen it feels too good \nI just **** it up\nYou want all of me\nI can’t give that much\nSo don’t fall too hard\n‘Cause I’m hard to love\n\n(Hard to love)\n(Yeah)\n\nNever meant to cause you a problem\nHere I am yet once again with the same old story\nYou don’t see the issues, I got ‘em\nYeah I do, yeah it’s true \n\nI’ll make it feel like heaven\nBut I swear I’m not a saint\nAnd you won’t see the truth\n‘Cause I’ll be kissing it away\nYeah I’ll be all you need until I’m driving you insane\nBaby all I’m trying to do is save you the pain\n\n‘Cause I’m hard to love\nFind it hard to trust\nWhen it feels too good \nI just **** it up\n\nYou want all of me \nI can’t give that much\nSo don’t fall too hard\n‘Cause I’m hard to love\n\n(Hard to love)\n(Yeah)\n\nUp\n’Til I’m down\nI’m all in\n’Til I’m out\nGot a lot\nTo work out \n’Til it’s all behind me\nYou know you don’t\nPlay with fire in the dark\nProtect your heart\nAin’t no going back once you start\nI’m trying to be nice\n\n(Hard to love)\n(Yeah)\n\n#BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK #HardtoLove #Official_Audio #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T08:26:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tifIB_-O7xqaBhtXVyUvIz2x_4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gQlMMD8auMs"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T02:32:17Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Pink Venom’ M/V",
+        "description": "BLACKPINK - ‘Pink Venom’\n\nKick in the door Waving the coco \n팝콘이나 챙겨 껴들 생각 말고\nI talk that talk Runways I walk walk \n눈 감고 pop pop 안 봐도 척 \n\nOne by one then Two by two\n내 손끝 툭 하나에 다 무너지는 중\n가짜 쇼 치곤 화려했지\nMakes no sense You couldn’t get a dollar outta me\n\n자 오늘 밤이야 난 독을 품은 꽃\n네 혼을 빼앗은 다음 Look what you made us do \n\n천천히 널 잠재울 FIRE 잔인할 만큼 아름다워 \n\nI bring the pain like \n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nBlack paint and ammo, got bodies like Rambo\nRest in peace, please light up a candle\nThis da life of a vandal, masked up and I’m still in Celine\nDesigner crimes or it wouldn’t be me\n\nDiamonds shinin’ drive in silence I don’t mind it I’m ridin’ \nFlyin’ private side by side with da pilot Up in the sky \nAnd I’m wildin’, stylin’ on them and there’s no chance\nCuz we got bodies on bodies like this a slow dance \n\n자 오늘 밤이야 난 독을 품은 꽃\n네 혼을 빼앗은 다음 Look what you made us do \n\n천천히 널 잠재울 FIRE 잔인할 만큼 아름다워 \n\nI bring the pain like\n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\n원한다면 provoke us\n감당 못해 and you know this\n\n이미 퍼져버린 shot that potion 네 눈앞은 핑크빛 ocean\n\nCome and give me all the smoke 도 아니면 모 like I’m so rock and roll \n\nCome and give me all the smoke 다 줄 세워 봐 자 STOP DROP\n\nI bring the pain like\n\nLa tatata La tatata La tatata La tatata \nLa tatata La tatata \n\nStraight to ya\nStraight to ya\nStraight to ya dome like\n\nLa tatata La tatata La tatata La tatata\nLa tatata La tatata\n\nI bring the pain like \n\n00:00 Pink Venom\n01:56 Join the #PinkVenomChallenge \n02:11 Only on YouTube Shorts \n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #MV \n#20220819_12amEST #20220819_1pmKST #OutNow #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-19T02:32:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I-Dy-AwmctwlpAgM5QjozK2i7QY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a-bnLFqVpE8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-16T04:26:33Z",
+        "channelId": "UCzKwUwMDlCzeAiwFKDP891w",
+        "title": "[FULL ALBUM] B L A C K P I N K  (블랙핑크) - B O R N P I N K (2022) [HQ Audio]",
+        "description": "B L A C K P I N K  (블랙핑크) - B O R N P I N K (2022) [FULL ALBUM] \n\n00:00 TRACK 01 \n03:07 TRACK 02\n06:03 TRACK 03\n09:01 TRACK 04\n12:01 TRACK 05\n14:43 TRACK 06\n18:25 TRACK 07\n21:30 TRACK 08\n\nFull album lyrics: https://bit.ly/3Ds0J7D\n\n👉 Click here to Subscribe our channel https://bit.ly/substokgasa\n👉 and ring the 🔔 for notifications\n\n✔ Connect with us on\nhttps://kgasa.com\nhttps://www.facebook.com/kgasaz\nhttps://twitter.com/kgasaz\nhttps://instagram.com/kgasaz\nhttps://www.pinterest.com/kgasaz\nhttps://www.reddit.com/r/kgasa/\nhttps://bit.ly/kgasaspotify - Spotify",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a-bnLFqVpE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a-bnLFqVpE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a-bnLFqVpE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a-bnLFqVpE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a-bnLFqVpE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kgasa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-16T04:26:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jFxy6NX4JopAP6ROcAyNNIuFq3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pyf8cbqyfPs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-16T12:27:03Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "LE SSERAFIM (르세라핌) 'ANTIFRAGILE' OFFICIAL M/V",
+        "description": "Creative Director : NU KIM\n\nVisual Creative : Yujoo Kim, Gabriel Cho, Yoon Cho, Sungwoong Moon\n\nA&R : Kyuyoung Kim, Sewon Kim, Yujeong Kim\n\nPerformance Directing : Soyeon Park\nAssistant Directing : Soyoung Yoon\n\nDirector : Soonsik Yang\nAssistant Director : JongYeop Kim, Yubin Han\n\nProducer : Emma Sungeun Kim (GE Production)\nLocation Manager : Hansaem Kim (itplace), Kyeongwon Kim (itplace)\nProduction Assistant : Hyo-seok Kim, Seungwon Choi, Byeongman Kim, Jihoo Ahn\n\nAcam Director of Photography : EumKo\nFocus Puller : Youngwoo Lee \n2nd AC : Eunil Lee\nDIT : Yuntae Go\n3rd AC : Donghyeon Lee\n\nBcam Director of Photography : Eunki Kim\nFocus Puller : Sungju Min\n2nd AC : Youngseo Park\n\nGaffer : Hyuk Park\nA Team Lighting Crew : Jeonghee Son, Hyeonggyun Kim, Younggyun Park, Jihyun Choi, Hyeonwoo Shin\nB Team Lighting Crew : Junmin Yang, Seounghyuk Kim,  Jeonghun Ju, Junha Ye, Heehune Lim, Jongseung Song\n\nArt director : Ok Shin (A:We)\nArt -Team Crew : Kyeng-ryen Dong, In-a Han, Minji Yun \n\nSFX Team : JUST\nSFX Supervisor : Dongho Lee, Changsok Kim\nSFX Technician : Chanmin Lee, Hyun Ahn\n\nJimmy Jib Operator : Dongjin Lee (jimmyjib_motion)\nJimmy Jib Assistant : Jeonghyun Yoo, Sungeum Jung\nDrone : Brother works  \n\nBike Stunt : Yonghak Kim, Youngjae Lee , Jeong-uk Jin, Taehyung Lee, Seonghyeon Lee, Sungsoon Kim, Sungbin Cho, Seungjae Lee, Jiwon Han\n\n3D VFX : Jaeyoung Kim (NEVV), Junghyun Heo (NEVV), Wonho Jung, Jungmin Lee\n\nDI : LUCID COLOUR\nColorist : Haewon Kwak \nDI Crew : Seonyoung Lee, Sujeong Park, Daseul Kim, Dongwoo Jo\nDI Producer : Onew Kim\n\nConnect with LE SSERAFIM\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK  https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-16T12:27:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RuFfp1AHCnWsxcfD0aEJJrPQfuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bwmSjveL3Lc"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-08T11:01:26Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - '붐바야 (BOOMBAYAH)' M/V",
+        "description": "BLACKPINK - 붐바야 (BOOMBAYAH)\n\nBLACKPINK in your area\nBLACKPINK in your area\nBeen a bad girl I know I am\nAnd I'm so hot I need a fan\nI don't want a boy I need a man\nClick-Clack\nBadda bing badda booom\n문을 박차면 모두 날 바라봄\n굳이 애써 노력 안 해도\n모든 남자들은 코피가 팡팡팡\n팡팡 파라파라 팡팡팡\n지금 날 위한 축배를 짠짠짠\nHands up\n내 손엔\nbottle full o' henny\n네가 말로만 듣던 걔가 나야\nJennie\n춤추는 불빛은 날 감싸고 도네\nBlack to the pink\n어디서든 특별해 Oh yes\n쳐다 보든 말든\nI wanna dance Like\n따라다라단딴 따라다라단딴\n뚜두룹바우\n좋아 이 분위기가 좋아\n좋아 난 지금 네가 좋아\n정말 반했어\n오늘 밤 너와 춤추고 싶어\nBOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH YAH\nBOOM BOOM BA\nBOOM BOOM BA 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH YAH\nBOOM BOOM BA BOOMBAYAH\nBLACKPINK in your area\n이제 달려야지 뭘 어떡해\n난 철 없어 겁 없어 man\nMiddle finger up F U pay me\n90's baby I pump up the jam\n달려봐 달려봐 오빠야\nLAMBO\n오늘은 너와 나 젊음을\nGAMBLE\n감히 날 막지마\n혹시나 누가 날 막아도\nI'm gonna go Brrrr RAMBO\n네 손이 내 허리를 감싸고 도네\nFront to my back\n내 몸매는 특별해 Oh yes\n네 눈빛은\nI know you wanna touch\nLike Touch touch touch touch\n뚜두룹바우\n좋아 이 분위기가 좋아\n좋아 난 지금 네가 좋아\n정말 멋있어\n오늘 밤 너와 춤추고 싶어\nBOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH YAH\nBOOM BOOM BA\nBOOM BOOM BA 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH YAH\nBOOM BOOM BA BOOMBAYAH\n오늘은 맨 정신 따윈 버리고\n하늘을 넘어서 올라 갈 거야\n끝을 모르게 빨리 달리고 싶어\nLet's go let's go\n오늘은 맨 정신 따윈 버리고\n하늘을 넘어서 올라 갈 거야\n끝을 모르게 빨리 달리고 싶어\nLet's go let's go\n\nAvailable @ https://BLACKPINK.lnk.to/SQUAREONEFA\n\n#‎BLACKPINK #‎붐바야 #‎BOOMBAYAH #‎DEBUTSINGLE #‎SQUAREONE #‎DEBUT #‎YG\n\nMore about BLACKPINK @ \nhttp://blackpinkofficial.com\nhttps://www.facebook.com/BLACKPINKOFFICIAL/\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttp://www.instagram.com/BLACKPINKOFFICIAL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-08T11:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CAFWaLnXgBplK9nc1Dd9IwDA_GE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8dJyRm2jJ-U"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-28T17:18:10Z",
+        "channelId": "UCrDkAvwZum-UTjHmzDI2iIw",
+        "title": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV",
+        "description": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV \n\nMV Executive Producer: P NATION \nMV Director: 최용석 @LUMPENS\nComposed by: SUGA, PSY, EL CAPITXN\nLyrics by: PSY, SUGA\nArranged by: SUGA, EL CAPITXN\nMixed by Tony Maserati\nMastered by Chris Gehringer @Sterling Sound\n\n* ‘That That (prod. & feat. SUGA of BTS)’ is now available on all streaming platforms including Apple Music & Spotify. \n\n🎧 Spotify : https://spoti.fi/3rYpVfa\n🎧 iTunes & Apple Music : https://apple.co/3ON0tTZ\n🎧 YouTube Music : https://bit.ly/3MEM3TT\n🎧 Melon : https://bit.ly/37NHXdw\n🎧 Genie : https://bit.ly/39jbDzj\n🎧 FLO : https://bit.ly/3vr9UAH\n🎧 Bugs : https://bit.ly/3MysBYM\n🎧 VIBE : https://bit.ly/3KswDk0\n\nPSY \n정규9집 [싸다9]\nFull-Length Album [PSY 9th]\n\nTrack List:\n#2. That That (prod.&ft. SUGA of BTS) *Title Track\n\n#PSY #SUGA #ThatThat #MV #싸이 #슈가 #BTS #정규9집 #싸다9 #PSY9th #PNATION #피네이션\n\nCopyrights 2022 ⓒ P NATION All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "officialpsy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-28T17:18:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ay0dTjaEd6YKpGFKPWoY3Qdt6CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2S24-y0Ij3Y"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-04T14:39:25Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - 'Kill This Love' M/V",
+        "description": "BLACKPINK - Kill This Love\n\n천사 같은 Hi 끝엔 악마 같은 Bye\n매번 미칠듯한 High 뒤엔 뱉어야\n하는 Price\n이건 답이 없는 Test\n매번 속더라도 Yes\n딱한 감정의 노예\n얼어 죽을 사랑해\nHere I come kick in the door\n가장 독한 걸로 줘\n뻔하디 뻔한 그 love\n더 내놔봐 give me some more\n알아서 매달려 벼랑 끝에\n한마디면 또 like 헤벌레 해\n그 따뜻한 떨림이 새빨간 설렘이\n마치 heaven 같겠지만\nyou might not get in it\nLook at me Look at you\n누가 더 아플까\nYou smart 누가 You are\n두 눈에 피눈물 흐르게 된다면\nSo sorry 누가 You are\n나 어떡해 나약한 날 견딜 수 없어\n애써 두 눈을 가린 채\n사랑의 숨통을 끊어야겠어\nLET’S KILL THIS LOVE\nLET’S KILL THIS LOVE\nFeelin’ like a sinner\nIts so fire with him I go boo hoo\nHe said you look crazy\nThank you baby\nI owe it all to you\nGot me all messed up\nHis love is my favorite\nBut you plus me\nsadly can be dangerous\nLucky me Lucky you\n결국엔 거짓말 we lie\nSo what so what\n만약에 내가 널 지우게\n된다면 So sorry\nI’m not sorry\n나 어떡해 나약한 날 견딜 수 없어\n애써 눈물을 감춘 채\n사랑의 숨통을 끊어야겠어\nLET’S KILL THIS LOVE\nLET’S KILL THIS LOVE\nWe all commit to love\nThat makes you cry\nWe’re all making love\nThat kills you inside\nWe must kill this love\nYeah it’s sad but true\nGotta kill this love\nBefore it kills you too\nKill this love\nYeah it’s sad but true\nGotta kill this love\nGotta kill let’s kill this love\n\nAvailable on iTunes @ http://smarturl.it/KillThisLove/iTunes\nAvailable on Apple Music @ http://smarturl.it/KillThisLove/AppleMusic\nAvailable on Spotify @ http://smarturl.it/KillThisLove/Spotify\n\nOfficial BLACKPINK Merchandise: http://smarturl.it/BLACKPINKShop/\n\nAlbums Available @\nYG SELECT : http://www.ygselect.com/\nYG SELECT China : http://cn.ygselect.com/\nYG SELECT Amazon(JP) : http://bit.ly/yg-amzn-jp\nYG SELECT Amazon(US) : http://bit.ly/yg-amzn-us\nYG SELECT Amazon(UK) : http://bit.ly/yg-amzn-uk\nYG SELECT Qoo10(SG) : https://www.qoo10.sg/shop/ygselect\n\n#BLACKPINK #블랙핑크 #KILLTHISLOVE #EP #KillThisLove #MV #20190405_0AM #OUTNOW #YG\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2S24-y0Ij3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2S24-y0Ij3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2S24-y0Ij3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2S24-y0Ij3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2S24-y0Ij3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-04T14:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CowY6j04qwOSK6Mkb-VL46sM1l8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RFMi3v0TXP8"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-24T14:15:00Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Pink Venom’ DANCE PRACTICE VIDEO",
+        "description": "#BLACKPINK #블랙핑크 #PinkVenom #DANCE_PRACTICE_VIDEO #안무영상 #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-24T14:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CDsnFOowtUYWC4yIMBBT9ypxZdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7WyHtSlvHD4"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T08:39:12Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK X PUBG MOBILE - ‘Ready For Love’ M/V",
+        "description": "BLACKPINK X PUBG MOBILE - ‘Ready For Love’ M/V\n\n오늘 하루도 내 머릿속은 오직 Y-O-U\nCan’t get you out of my head\n밤새 비워낸 병의 색은 BLUE\n\nYeah, 넌 도대체 몇 번을 내 맘 가져다 버린 건지 몰라\n생각의 기차는 쉬지 않고 달려가 밤새 못 자\n\nYeah, 넌 아쉬울 때만 Yeah, 그저 아쉬울 때만 날\nYeah, 그래 아쉬울 때라도 너라면 좋으니까\n\n이젠 기다릴 것도 없잖아\n겁낼 필요도 없잖아\n네 심장의 색깔을 보여줘\n\n정말 내 세상엔 네가 필요해\n두 눈을 떠봐 네 앞에 Here I am\n\nI’m ready for love\n\nTell me when you’re ready\nCuz I’m already ready\nTell me when you’re ready\nCuz\n\nI’m ready for love\nI’m ready for love I’m ready for love\nI’m ready for love\nI’m ready for love\n\nReady or not, here I come and I’m running\nLike it’s now or never, I never know if you want it\nWhat if love wasn’t what it was supposed to be?\nWhat if there’s no Romeo for me?\nNo hope, no roses, no more notes to read\nSo I keep my eyes closed to see\nWhat I need is forever and forever baby, not sometimes\nWhen you want it then you best come find me cuz I‘m ready\n\n이젠 기다릴 것도 없잖아\n겁낼 필요도 없잖아\n네 심장의 색깔을 보여줘\n\n정말 내 세상엔 네가 필요해\n두 눈을 떠봐 네 앞에 Here I am\n\nI’m ready for love\n\nTell me when you’re ready\nCuz I’m already ready\nTell me when you’re ready\nCuz\n\nI’m ready for love\nI’m ready for love I’m ready for love\nI’m ready for love\nI’m ready for love\n\n네 영혼과 모든 것이\n날 황홀하게 해 기뻐 웃게 해\n나쁠 거 없잖아\n\n네 모든 걸 날 위해 던질 때\n널 지켜줄게\n\nLalala lalalala Lalala lalalala\nLalala lalalala Lalala lalalala\n\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINKxPUBGM #BLACKPINK #블랙핑크 #PUBGM #배틀그라운드모바일 #SPECIALTRACK #ReadyForLove #OUTNOW #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T08:39:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PyLgR6gLjaRRPifd81kRz2TT6w8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IHNzOHi8sJs"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-15T08:25:36Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ M/V",
+        "description": "BLACKPINK - 뚜두뚜두 (DDU-DU DDU-DU)\n\n착한 얼굴에 그렇지 못한 태도\n가녀린 몸매 속\n가려진 volume은 두 배로\n거침없이 직진\n굳이 보진 않지 눈치\nBlack 하면 Pink\n우린 예쁘장한 Savage\n원할 땐 대놓고 뺏지\n넌 뭘 해도 칼로 물 베기\n두 손엔 가득한 fat check\n궁금하면 해봐 fact check\n눈 높인 꼭대기\n물 만난 물고기\n좀 독해 난 Toxic\nYou 혹해 I`m Foxy\n두 번 생각해\n흔한 남들처럼 착한 척은 못 하니까\n착각하지 마\n쉽게 웃어주는 건 날 위한 거야\n아직은 잘 모르겠지\n굳이 원하면 test me\n넌 불 보듯이 뻔해\n만만한 걸 원했다면\nOh wait til’ I do what I do\nHit you with that\nddu-du ddu-du du\nHit you with that\nddu-du ddu-du du\n지금 내가 걸어가는 거린\nBLACKPINK 4 way 사거리\n동서남북 사방으로 run it\n너네 버킷리스트\n싹 다 I bought it\n널 당기는 것도 멀리 밀치는 것도\n제멋대로 하는 bad girl\n좋건 싫어하건 누가 뭐라 하던\nWhen the bass drop\nit’s another banger\n두 번 생각해\n흔한 남들처럼 착한 척은 못 하니까\n착각하지 마\n쉽게 웃어주는 건 날 위한 거야\n아직은 잘 모르겠지\n굳이 원하면 test me\n넌 불 보듯이 뻔해\n만만한 걸 원했다면\nOh wait til’ I do what I do\nHit you with that ddu-du ddu-du du\nHit you with that ddu-du ddu-du du\nWhat you gonna do\nwhen I come come through\nwith that that uh uh huh\nWhat you gonna do\nwhen I come come through\nwith that that uh uh huh\n뜨거워 뜨거워 뜨거워 like fire\n뜨거워 뜨거워 뜨거워 like fire\n뜨거워 뜨거워 뜨거워 like fire\n뜨거워 뜨거워 뜨거워 like fire\nHit you with that ddu-du ddu-du du\n\nDownload on iTunes @ http://smarturl.it/BP_SquareUp/itunes\nDownload on AppleMusic @ http://smarturl.it/BP_SquareUp/applemusic\nAvailable on Spotify @ http://smarturl.it/BP_SquareUp/spotify\n\nAlbums Available @ \nYG E-SHOP: http://bit.ly/yg-squareup\nAmazon US: http://bit.ly/us-squareup\nAmazon JP: http://bit.ly/jp-squareup\nQoo10 SG: http://bit.ly/qoo10-squareup\n\n#BLACKPINK #블랙핑크 #THE1STMINIALBUM #EP #SQUAREUP #뚜두뚜두 #DDU_DU_DDU_DU #YG\n\nMore about BLACKPINK @ \nhttp://blackpinkofficial.com\nhttps://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttp://www.instagram.com/BLACKPINKOFFICIAL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-15T08:25:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GEZnBldnNxwQJriV1WaWzeT73Zw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dNCWe_6HAM8"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-23T09:41:10Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "LISA - 'MONEY' EXCLUSIVE PERFORMANCE VIDEO",
+        "description": "#LISA #리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dNCWe_6HAM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dNCWe_6HAM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dNCWe_6HAM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dNCWe_6HAM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dNCWe_6HAM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-23T09:41:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JVcy8Ggji7YEA0yWPfI88Fcg4R0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HjBo--1n8lI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T03:53:10Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "Rihanna’s FULL Apple Music Super Bowl LVII Halftime Show",
+        "description": "Listen to Rihanna’s iconic hits in Spatial Audio on Apple Music: http://apple.co/RihannaSpatialYT http://apple.co/RihannaSpatialYT\nCheck out our NFL Podcast Network: http://apple.co/NFLPodcasts\n\nCheck out our other channels:\nNFL Tuesday Night Gaming https://www.youtube.com/c/NFLTNG\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HjBo--1n8lI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HjBo--1n8lI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HjBo--1n8lI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HjBo--1n8lI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HjBo--1n8lI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T03:53:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w91juLQ1cYb7Da0zZR65NuTzZmA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UhxW9Njqqu0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T08:53:08Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Typa Girl’ (Official Audio)",
+        "description": "BLACKPINK - ‘Typa Girl’\n\nTypa girl that’ll make you wanna dream\n\nTypa girl that came straight off of the screen\n\nTypa girl you wanna ice up make me freeze \n\nTypa girl you wanna wife up sign the pree\n\n\nI bring money to the table \nNot your dinner \nBoth my body and my bank account \nGood figure\nThinking about me but there’s nothing to consider \nIf I let you in my circle you a winner \n\nDidn’t know that you were cold\n’Til you felt my fire\nHeaven’s gate just opened up\nHearing choirs \nIf you saying something else \nYou a liar\n\n‘Cause I’m that girl that drive you crazy\nBut you can’t leave me alone \nGot you thinking maybe \nI went supernatural \n\nPut you under spells or \nLook into a crystal ball \nI'm not like these other girls at all \n\nI’m the typa girl that make you forget that you got a type \nType that make you love me when the only thing you done is like \n\nI’m that typa girl \nI’m that typa girl \nI’m that typa girl \nI’m that typa girl \n\nLike du du dun\ndu lu lu lun\nLike du du dun\ndu lu lu lun\n\nI’m the type of girl \nThat everybody type \nDouble tap tap tap \nWhat everybody like \nYou can check my stats \nGot everybody’s eye\nAnd I run them laps\nRound everybody’s mind\n\nAll of these girls on some uppercase ****\nThat mean they all cap \nBeing the best at whatever I do \nThat’s sounding on brand \n\nTypa girl that you wish for when you blow that candle out\n\nTypa girl that you wanna take back to your mama house\n\nTypa girl that don't ask for what she wants, she’s takin' out \n\nTypa girl who got bag in same quality as Chanel\n\nNow you know that you were cold \n‘Cause you felt my fire\nHeaven’s gate just opened up \nHearing choirs \nIf you saying something else \nYou a liar \n\n‘Cause I’m that girl \nThat drive you crazy \nBut you can’t leave me alone \nGot you thinking maybe \nI went supernatural\n\nPut you under spells or \nLook into a crystal ball \nI'm not like these other girls at all \n\nI’m the type of girl that make you forget that you got a type \nType that make you love me when the only thing you done is like \n\nI’m that typa girl \nI’m that typa girl\nI’m that typa girl \nI’m that typa girl\n\nLike du du dun\ndu lu lu lun\nLike du du dun\ndu lu lu lun\n\n#BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK #TypaGirl #Official_Audio #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T08:53:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XKuJMNL_uQ88_FywWSpEl0q7eI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ioNng23DkIM"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-26T07:41:45Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - 'How You Like That' M/V",
+        "description": "BLACKPINK - How You Like That\n\n보란 듯이 무너졌어\n바닥을 뚫고 저 지하까지\n옷 끝자락 잡겠다고\n저 높이 두 손을 뻗어봐도\n\n다시 캄캄한 이곳에 light up the sky\n네 두 눈을 보며 I’ll kiss you goodbye\n실컷 비웃어라 꼴좋으니까\n이제 너희 하나 둘 셋\n\nHa how you like that?\nYou gon’ like that that that that that\nHow you like that?\nHow you like that that that that that\n\nNow look at you now look at me\nLook at you now look at me \nLook at you now look at me\n\nHow you like that\n\nNow look at you now look at me\nLook at you now look at me \nLook at you now look at me\n\nHow you like that\n\nYour girl need it all and that’s a hundred\n백 개 중에 백 내 몫을 원해\nKarma come and get some \n딱하지만 어쩔 수 없잖아\nWhat’s up, I’m right back\n방아쇠를 cock back\nPlain Jane get hijacked\nDon’t like me? Then tell me how you like that\n\n더 캄캄한 이곳에 shine like the stars\n그 미소를 띠며 I’ll kiss you goodbye\n\n실컷 비웃어라 꼴좋으니까 \n이제 너희 하나 둘 셋\n\nHa how you like that?\nYou gon’ like that that that that that\nHow you like that?\nHow you like that that that that that\n\nNow look at you now look at me\nLook at you now look at me \nLook at you now look at me\n\nHow you like that\n\nNow look at you now look at me\nLook at you now look at me \nLook at you now look at me\n\nHow you like that\n\n날개 잃은 채로 추락했던 날\n어두운 나날 속에 갇혀 있던 날\n그때쯤에 넌 날 끝내야 했어\nLook up in the sky it’s a bird it’s a plane\n\nBring out your boss bish\n\nBLACKPINK!\n\nHow you like that \nYou gon’ like that \nHow you like that \n\nAvailable on @ https://smarturl.it/HowYouLikeThat\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #블랙핑크 #HowYouLikeThat #PreReleaseSingle #MV #20200626_6pm #OutNow #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ioNng23DkIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ioNng23DkIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ioNng23DkIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ioNng23DkIM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ioNng23DkIM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-26T07:41:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "43pWv8pCerw9ItEHmnocpuTtxn0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "awkkyBH2zEo"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-10T03:27:08Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "LISA - 'LALISA' M/V",
+        "description": "LISA - LALISA\n\n내 뒷모습만 봐도 알잖아\n어두워질 때 분홍빛이나\n새하얀 조명이 날 깨우면\n번쩍번쩍 세상을 흔들어\n\n머리를 하얗게 비운채\n시끄런 감정은 태울래\nBurn burn burn\n그때 난 네 갈증을 해소할 샴페인\n\nSip sip 나를 들이켜\n그래 더 저 높이 내 body 받들어 \nWant you to ring the alarm\n세상에게 알려 내 이름에다 입맞춰\n\nSay Lalisa love me Lalisa love me \nCall me Lalisa love me Lalisa love me\n알잖아 attitude\n뭘 더 어쩌라구\nThe loudest in the room \n\nJust Say Lalisa love me Lalisa love me \nCall me Lalisa love me Lalisa love me\n알잖아 attitude\n뭘 더 어쩌라구\nThe loudest in the room \n\nBaby get the megaphone\nPut it on speaker\nI said I can’t hear you\nSo you need to speak up\nPut that shiz on stereo\nEveryone else on very low \n\nProtect it like a barrier\nPromise there’s nothing scarier\nThan me if anybody coming gunnin for my man\nGonna catch a case\nGun up in my hand\nBam bam bam\nHit after hit though\nRocks in my wrist so I call em the flintstones\n\nRing the alarm\n세상에게 알려 내 이름에다 입맞춰 \n\nSay Lalisa love me Lalisa love me\nCall me Lalisa love me Lalisa love me\n알잖아 attitude \n뭘 더 어쩌라구\nThe loudest in the room \n\nJust Say Lalisa love me Lalisa love me \nCall me Lalisa love me Lalisa love me\n알잖아 attitude \n뭘 더 어쩌라구\nThe loudest in the room \n\n누구와도 비교 못해 그래봤자 you gon’ still love me\nYou need some L.A.L.I.S.A\n\n지금 너의 두 눈 앞에 서있는 내 이름을 기억해\nLove you some L.A.L.I.S.A\n\nYou cannot see me 어떻게 하는지 다 보여줘도\n태국에서 한국 거쳐 여기까지 went for the throat\n\nBeing the greatest of all time ain’t fantasy\n새까만 핑크빛 왕관 belongs to we\n\nLalisa Lalisa Lalisa 하늘 위 당당해\nLalisa Lalisa Lalisa 저들은 날 원해 \nLalisa Lalisa Lalisa catch me if you can\nLalisa Lalisa Lalisa Lalisa Lalisa\n\nSay Lalisa love me Lalisa love me \nCall me Lalisa love me Lalisa love me\n알잖아 attitude \n뭘 더 어쩌라구\nThe loudest in the room\n\nJust Say Lalisa love me Lalisa love me\nCall me Lalisa love me Lalisa love me \n알잖아 attitude \n뭘 더 어쩌라구\nThe loudest in the room\n\n#LISA #리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #MV #20210910_12amEST #20210910_1pmKST #OUTNOW #YG\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttp://www.instagram.com/BLACKPINKOFFICIAL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/awkkyBH2zEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/awkkyBH2zEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/awkkyBH2zEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/awkkyBH2zEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/awkkyBH2zEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-10T03:27:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RbMVGebtHDTiNoouM3i3pZ5-qco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vRXZj0DzXIA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-28T02:30:49Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - 'Ice Cream (with Selena Gomez)' M/V",
+        "description": "BLACKPINK - Ice Cream (with Selena Gomez)\n\nCome a little closer cause you looking thirsty \nImma make it better sip it like a Slurpee\n\nSnow cone chilly \nGet it free like Willy \nIn the jeans like Billie \nYou be poppin’ like a wheelie \n\nEven in the sun you know I keep it icy \nYou could take a lick but it’s too cold to bite me \n\nBrrr brrr frozen \nYou’re the one been chosen \nPlay the part like Moses \nKeep it fresh like roses \n\nLook so good yeah look so sweet \nLooking good enough to eat \n\nColdest with this kiss so he call me ice cream \nCatch me in the fridge right where the ice be \n\nLook so good yeah look so sweet \nBaby you deserve a treat \n\nDiamonds on my wrist so he call me ice cream \nYou can double dip cause I know you like me \n\nIce cream chillin’ chillin’ \nIce cream chillin’\nIce cream chillin’ chillin’ \nIce cream chillin’\n\nI know that my heart could be so cold \nBut I’m sweet for you come put me in a cone\n\nYou’re the only touch yeah they get me melting\nHe’s my favorite flavor always gonna pick him\n\nYou’re the cherry piece just stay on top of me so\nI can’t see nobody else for me no\n\nGet it flip it scoop it \nDo it like that ah yeah ah yeah\nLike it love it lick it\nDo it like lalala oh yeah\n\nLook so good yeah look so sweet \nLooking good enough to eat \n\nColdest with this kiss so he call me ice cream \nCatch me in the fridge right where the ice be \n\nLook so good yeah look so sweet \nBaby you deserve a treat \n\nDiamonds on my wrist so he call me ice cream \nYou can double dip cause I know you like me\n\nIce cream chillin’ chillin’ \nIce cream chillin’\nIce cream chillin’ chillin’ \nIce cream chillin’\nIce cream chillin’ chillin’ \nIce cream chillin’\nIce cream chillin’ chillin’ \nIce cream \n\nChillin’ like a villain yeah ra ra ra\n미친 미친듯한 속도 in my La Fera\n너무 빨러 너는 삐끗 원한다면 그냥 지름\nMillis Billis 매일 벌음 한여름 손목에 얼음\n\nKeep it movin’ like my lease up\nThink you fly boy where ya visa\nMona Lisa kinda Lisa\nNeeds an ice cream man that treats her\n\nKeep it movin’ like my lease up\nThink you fly boy where ya visa\nMona Lisa kinda Lisa\nNeeds an ice cream man that treats her\n\nNa na na na na \nna na na na na na na\nIce on my wrist yeah I like it like this\nGet the bag with the cream\nIf you know what I mean\n\nIce cream \nIce cream \nIce cream chillin’\n\nNa na na na na \nna na na na na na na\nIce on my wrist yeah I like it like this\nAnd I’m nice with the cream\nIf you know what I mean\n\nIce cream \nIce cream \nIce cream\n\nAvailable on @ https://smarturl.it/IceCreamSingle\n\nOfficial BLACKPINK Merchandise: http://smarturl.it/BLACKPINKShop/ \n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #블랙핑크 #SelenaGomez #셀레나고메즈 #IceCream #NewSingle #MV #20200828_12amEST #20200828_1pmKST #OutNow #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRXZj0DzXIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRXZj0DzXIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRXZj0DzXIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vRXZj0DzXIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vRXZj0DzXIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-28T02:30:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x7euqSPg8GLL4_P-DHzkATKFMmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fCO7f0SmrDc"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-17T03:30:24Z",
+        "channelId": "UCritGVo7pLJLUS8wEu32vow",
+        "title": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video",
+        "description": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video\n\nComposed by 소연, Pop Time, Kako\nLyrics by 소연\nArranged by Pop Time, Kako, 소연\n\nWhy you think that ’bout nude\n’Cause your view’s so rude\nThink outside the box\nThen you’ll like it\n\nHello my name is 예삐 예삐요\n말투는 멍청한 듯 몸매는 섹시 섹시요\n그럼 다이아 박힌 티아라 하나에\n내가 퍽이나 웃게 퍽이나 웃게\n\n뒤틀려버린 로렐라이 Don’t need no man\n철학에 미친 독서광 Self-made woman\n싸가지없는 이 Story에 무지 황당한\n야유하는 관객들 You tricked me you’re a liar\n\n아 발가벗겨져 버린 Movie star\n아 별빛이 깨져버린 밤\n꼴이 볼품없대도 망가진다 해도\n다신 사랑받지 못한대도\n\nYes I’m a nude\nNude 따따랏따라\nYes I’m a nude\nNude I don’t give a love\n\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\n\n(Ouch!)\n실례합니다 여기 계신 모두\n야한 작품을 기대하셨다면\nOh I’m sorry 그딴 건 없어요\n환불은 저쪽 대중은 흥미 없는 정보\n그 팝콘을 던져도 덤덤\n행복과 반비례 평점\nBut my 정점 멋대로 낸 편견은 토할 거 같지\n\n아 발가벗겨져 버린 Movie star\n아 더 부끄러울 게 없는 밤\n꼴이 볼품없대도 어쩌면 네게도\n다신 사랑받지 못한대도\n\nYes I’m a nude\nNude 따따랏따라\nYes I’m a nude\nNude I don’t give a love\n\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\n\nUm ha um ha um ha um\nYes I'm a nude\nYes I'm a nude\nNow I draw a luxury nude\n\nWhy you think that ’bout nude\n’Cause your view’s so rude\nThink outside the box\n까고 말해\n\n아리따운 나의 누드\n아름다운 나의 누드\nI’m born nude\n변태는 너야\nRude\n\nNude",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-17T03:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qCh1Fc1AGQXpNyZCgCsHp1ntLr8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CM4CkVFmTds"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-25T07:53:26Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE \"I CAN'T STOP ME\" M/V",
+        "description": "TWICE \"I CAN'T STOP ME\" M/V\n\nTWICE 2nd Album \"Eyes wide open\" LISTEN NOW:\nhttps://TWICE.lnk.to/Eyeswideopen\n\nTWICE Official Shop: https://TWICE.lnk.to/Shop\n\nTWICE Official YouTube: http://www.youtube.com/c/TWICE\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\nⓒ 2020 JYP Entertainment. All Rights Reserved\n\n#TWICE #Eyeswideopen #ICANTSTOPME",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CM4CkVFmTds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-25T07:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iocT2KTa4lK68A-K_JIkhxO75AY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dISNgvVpWlo"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-08T11:04:03Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - '휘파람 (WHISTLE)' M/V",
+        "description": "BLACKPINK - 휘파람 (WHISTLE)\n\nHey boy\nMake’ em whistle\nlike a missile bomb bomb\nEvery time I show up blow up uh\nMake’ em whistle\nlike a missile bomb bomb\nEvery time I show up blow up uh\n넌 너무 아름다워\n널 잊을 수가 없어\n그 눈빛이 아직 나를\n이렇게 설레게 해 boom boom\n24 365\n오직 너와 같이 하고파\n낮에도 이 밤에도\n이렇게 너를 원해 ooh ooh\n모든 남자들이 날 매일 check out\n대부분이 날 가질 수 있다 착각\n절대 많은 걸 원치 않아\n맘을 원해 난\n넌 심장을 도려내 보여봐\n아주 씩씩하게 때론 chic chic 하게\nSo hot so hot 내가 어쩔 줄 모르게 해\n나지막이 불러줘\n내 귓가에 도는 휘파람처럼\n이대로 지나치지 마요\n너도 나처럼 날 잊을 수가 없다면 WHOA\n널 향한 이 마음은 Fire\n내 심장이 빠르게 뛰잖아\n점점 가까이 들리잖아\n휘파람 UH 휘 파람 파람 파람\ncan you hear that\n휘 파라파라 파라 밤\n휘파람 UH 휘 파람 파람 파람\ncan you hear that\n휘 파라파라 파라 밤\nHold up 아무 말 하지 마\nJust whistle to my heart\n그 소리가 지금 나를\n이렇게 설레게 해 boom boom\n생각은 지루해 느낌이 shhh\nEvery day all day\n내 곁에만 있어줘 zoom zoom\nUh 언제나 난 stylin’\n도도하지만 네 앞에선 darlin’\n뜨거워지잖아 like a desert island\n널 알아갈수록 울려대는 마음속\n그만 내빼 넘어와라 내게 boy\n이젠 checkmate\n게임은 내가 win uh-huh\n난 널 택해 안아줘 더 세게\n누가 널 가로채 가기 전에 내가 uh\n이대로 지나치지 마요\n너도 나처럼 날 잊을 수가 없다면 WHOA\n널 향한 이 마음은 Fire\n내 심장이 빠르게 뛰잖아\n점점 가까이 들리잖아\n휘파람 UH 휘 파람 파람 파람\ncan you hear that\n휘 파라파라 파라 밤\n휘파람 UH 휘 파람 파람 파람\ncan you hear that\n휘 파라파라 파라 밤\nThis beat got me feelin’ like\n바람처럼 스쳐가는\n흔한 인연이 아니길\n많은 말은 필요 없어\n지금 너의 곁에 나를 데려가 줘 ohh\nMake’ em whistle\nlike a missile bomb bomb\nEvery time I show up blow up uh\nMake’ em whistle\nlike a missile bomb bomb\nEvery time I show up blow up uh\n\nAvailable @ https://BLACKPINK.lnk.to/SQUAREONEID\n\n#‎BLACKPINK #‎휘파람 #‎WHISTLE #‎DEBUTSINGLE #‎SQUAREONE #‎DEBUT #‎YG\n\nMore about BLACKPINK @ \nhttp://blackpinkofficial.com\nhttps://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttp://www.instagram.com/BLACKPINKOFFICIAL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dISNgvVpWlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dISNgvVpWlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dISNgvVpWlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dISNgvVpWlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dISNgvVpWlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-08T11:04:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DR4_pZfifhOMwEvTTZK9wYHZGY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Amq-qlqbjYA"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-22T08:16:35Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V",
+        "description": "BLACKPINK - 마지막처럼 (AS IF IT'S YOUR LAST)\n\n너 뭔데 자꾸 생각나\n자존심 상해 애가 타\n얼굴이 뜨겁고 가슴은 계속 뛰어\n내 몸이 맘대로 안 돼 어지러워\n넌 한 줌의 모래 같아\n잡힐 듯 잡히지 않아\n넌 쉽지 않은 걸 그래서 더 끌려\n내 맘이 맘대로 안 돼 어이없어\n지금 너를 원하는\n내 숨결이 느껴지니\n널 바라보고 있어도 missing you\n서툰 날 won’t you set me free\nBaby 날 터질 것처럼 안아줘\n그만 생각해 뭐가 그리 어려워\n거짓말처럼 키스해줘 내가 너에게\n마지막 사랑인 것처럼\n마지막처럼 마-마-마지막처럼\n마지막 밤인 것처럼 love\n마지막처럼 마-마-마지막처럼\n내일 따윈 없는 것처럼\nUh I'ma fall in love baby\nYou gon finna catch me\nUh give you all of this baby\nCall me pretty and nasty\nCause we gonna get it my love\nyou can bet it on\nblack we gon double the stack\non them whoa\nI be the Bonnie\nand you be my Clyde\nWe ride or die\nXs and Os\n시간은 흘러가는데 마음만 급해지지\n내 세상은 너 하나만 missing you\n서툰 날 won’t you set me free\nBaby 날 터질 것처럼 안아줘\n그만 생각해 뭐가 그리 어려워\n거짓말처럼 키스해줘 내가 너에게\n마지막 사랑인 것처럼\n마지막처럼 마-마-마지막처럼\n마지막 밤인 것처럼 love\n마지막처럼 마-마-마지막처럼\n내일 따윈 없는 것처럼\nOne two three 새로운 시작이야\n절대 뒤돌아보진 않을 거니까\n날 너에게 던지면 너는 날 꼭 잡아줘\n세상은 우릴 꺾지 못할 테니까\nBLACKPINK in your area\nBaby 날 터질 것처럼 안아줘\n그만 생각해 뭐가 그리 어려워\n거짓말처럼 키스해줘 내가 너에게\n마지막 사랑인 것처럼\n마지막처럼 마-마-마지막처럼\n마지막 밤인 것처럼 love\n마지막처럼 마-마-마지막처럼\n내일 따윈 없는 것처럼 love\n\nDownload on iTunes @ http://smarturl.it/BLACKPINK_3RD\nDownload on AppleMusic @ http://smarturl.it/3RD_BLACKPINK\n\n#BLACKPINK #블랙핑크 #마지막처럼 #ASIFITSYOURLAST #YG\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-22T08:16:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pWQWR5aRnZsfZhk1gCpWsdOzqMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PjrAwC4TIPA"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-18T12:33:05Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Shut Down’ DANCE PERFORMANCE VIDEO",
+        "description": "#BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-18T12:33:05Z"
+      }
+    }
+  ]
+}
